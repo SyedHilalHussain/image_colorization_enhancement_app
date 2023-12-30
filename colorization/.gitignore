@@ -1,0 +1,5 @@
+generator.pt
+.dockerignore
+Dockerfile
+dockerfile_start
+.deployment
